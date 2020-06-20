@@ -62,9 +62,7 @@ Json Object consisting of Corporate bond id, Government bond id and spread
 
 # Test case
 
-npm -i mocha
-
-npm -i chai
+npm i
 
 npm test
 
